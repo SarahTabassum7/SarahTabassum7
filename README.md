@@ -42,7 +42,7 @@ Agile (Scrum), SDLC, Waterfall, UAT, Stakeholder Workshops
 Public technical case study demonstrating the design of an AI-enabled resume intelligence platform for scalable hiring.  
 **Impact:** Reduced manual screening by 35%, improved data standardization, and increased recruiter efficiency.  
 
-🔗 Repository: **ai-resume-intelligence-platform**
+Repository: **ai-resume-intelligence-platform**
 
 ---
 
