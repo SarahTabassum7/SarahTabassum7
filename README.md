@@ -1,6 +1,6 @@
 # Hi, I'm Sarah Tabassum
 
-**Business Analyst** with 5+ years of experience transforming complex data into actionable insights across IT, consulting, and analytics domains.  
+**Technical Analyst** with 5+ years of experience transforming complex data into actionable insights across IT, consulting, and analytics domains.  
 I bridge business goals with technical solutions through visualization, automation, and AI-driven analytics.
 
 ---
