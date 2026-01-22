@@ -1,6 +1,6 @@
 # Hi, I’m Sarah Tabassum 
 
-**Technical Analyst | Digital Technology | AI & Analytics Platforms**
+**Technical Business Analyst | Business Statistics | Financial Analytics | Product Insights | SQL | Power BI | Python | ML Foundations**
 
 I am a **Technical Analyst with 5+ years of experience** across business analysis, data analytics, and platform delivery, supporting technology-driven and customer-facing systems in enterprise and consulting environments.
 
