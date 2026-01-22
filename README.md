@@ -2,9 +2,13 @@
 
 **Technical Business Analyst | Business Statistics | Financial Analytics | Product Insights | SQL | Power BI | Python | ML Foundations**
 
-I am a **Technical Analyst with 5+ years of experience** across business analysis, data analytics, and platform delivery, supporting technology-driven and customer-facing systems in enterprise and consulting environments.
+I’m a Technical Business Analyst with 5+ years of experience helping teams build data-driven, customer-facing platforms across fraud, risk, and analytics. I enjoy turning complex business problems into clear requirements, clean data workflows, and actionable dashboards that support confident decision-making.
 
-I specialize in **bridging business, compliance, and engineering teams** to design scalable, data-driven solutions using analytics, workflow automation, and AI-assisted platforms.
+My strengths include SQL-based analysis, Power BI reporting, workflow automation, and end-to-end delivery, from BRDs and process flows to UAT planning, testing, and stakeholder sign-off. I’ve worked closely with engineering, compliance, and business teams to improve detection accuracy, streamline investigations, and increase visibility into KPI performance.
+
+I also bring a strong technical foundation in Python and supervised machine learning, and I’m currently expanding my ML skills through hands-on projects like customer churn prediction.
+
+I’m actively exploring roles in Business Statistics, Financial Analytics, Product, and data/BI-focused teams.
 
 ---
 
