@@ -1,92 +1,112 @@
-# Hi, I’m Sarah Tabassum 
+# Hi, I’m Sarah Tabassum  
 
-**Technical Business Analyst | Business Statistics | Financial Analytics | Product Insights | SQL | Power BI | Python | ML Foundations**
-
-I’m a Technical Business Analyst with 5+ years of experience helping teams build data-driven, customer-facing platforms across fraud, risk, and analytics. I enjoy turning complex business problems into clear requirements, clean data workflows, and actionable dashboards that support confident decision-making.
-
-My strengths include SQL-based analysis, Power BI reporting, workflow automation, and end-to-end delivery, from BRDs and process flows to UAT planning, testing, and stakeholder sign-off. I’ve worked closely with engineering, compliance, and business teams to improve detection accuracy, streamline investigations, and increase visibility into KPI performance.
-
-I also bring a strong technical foundation in Python and supervised machine learning, and I’m currently expanding my ML skills through hands-on projects like customer churn prediction.
-
-I’m actively exploring roles in Business Statistics, Financial Analytics, Product, and data/BI-focused teams.
+Technical Business Analyst | Business Statistics | Financial & Marketing Analytics | Product Insights | SQL | Power BI | Python | ML Foundations
 
 ---
 
-## What I Work On
+## About Me  
+
+I’m a Data & Business Analyst with 5+ years of experience supporting analytics-driven platforms across fraud, risk, finance, and operational domains. I specialize in transforming complex business rules and datasets into reliable workflows, performance dashboards, and decision-support systems.
+
+My work focuses on SQL-based validation, Power BI reporting, workflow automation, and end-to-end delivery—from BRDs and process mapping to UAT execution and release validation. I collaborate closely with engineering, compliance, and business teams to improve data quality, system reliability, and reporting confidence.
+
+I also bring strong foundations in Python, R, and supervised machine learning, and actively build analytical models to support forecasting, churn analysis, and performance optimization.
+
+I’m currently exploring opportunities in Business Statistics, Financial Analytics, Product Analytics, and Data/BI-focused teams.
+
+---
+
+## What I Work On  
 
 - AI-enabled recruitment and staffing platforms  
-- Data-driven workflow automation and decision-support systems  
-- Analytics and BI solutions for operational and leadership visibility  
-- Requirements-driven system design in regulated and enterprise environments  
+- Fraud detection and identity verification workflows  
+- Financial and operational performance reporting  
+- Marketing and customer analytics solutions  
+- Data validation and workflow automation systems  
+- Analytics-driven system design in regulated environments  
 
 ---
 
-## Core Expertise
+## Core Expertise  
 
-**Business Analysis & Documentation**  
-BRD, FRD, FSD, RTM, User Stories, Process Flows, Data Mapping, UAT Planning  
+### Business Analysis & Process  
+BRDs, FRDs, RTMs, SRS, User Stories, Use Case Modeling, As-Is / To-Be Analysis, Acceptance Criteria, Requirement Traceability, UAT Planning  
 
-**Data & Analytics**  
-SQL, Power BI, Data Modeling, KPI Design, Dashboard Development, Data Validation  
+### Analytics, Finance & Marketing  
+KPI Analysis, Financial Performance Tracking, Variance Analysis, Funnel & Conversion Analysis, Customer Behavior Analytics, Data Storytelling  
 
-**Automation & Platforms**  
-n8n Workflow Automation, REST APIs, AI-assisted data enrichment, System Integration  
+### Business Intelligence & Reporting  
+Power BI, Tableau, Excel (Pivot Tables, VLOOKUP), Power Query, Looker Studio, DAX, M Query, Dashboard Design  
 
-**Tools & Technologies**  
-Power BI, SQL Server, Snowflake, Azure DevOps, Jira, Lucidchart, Visio, GitHub  
+### Machine Learning & Statistics  
+Supervised Learning, Feature Engineering, EDA, Model Evaluation, Statistical Foundations, Business Interpretation of Models  
 
-**Methodologies**  
-Agile (Scrum), SDLC, Waterfall, UAT, Stakeholder Workshops  
+### Programming & Automation  
+Python, R, SQL, .NET, REST APIs, JSON, Power Automate, n8n Workflow Automation, Git/GitHub  
 
----
-
-## Featured Work
-
-###  AI-Enabled Resume Intelligence Platform
-Public technical case study demonstrating the design of an AI-enabled resume intelligence platform for scalable hiring.  
-**Impact:** Reduced manual screening by 35%, improved data standardization, and increased recruiter efficiency.  
-
-Repository: **ai-resume-intelligence-platform**
+### Testing & Delivery  
+Functional & Regression Testing, UAT Coordination, Validation Scenarios, Defect Tracking (Jira), Release Verification  
 
 ---
 
-###  AI-Enabled Staffing & Fraud Detection Platform (PamTen)
-Led business and data analysis for an AI-enabled fraud detection and identity verification platform integrated with hiring workflows.  
-**Impact:** Improved fraud detection accuracy by 25%, reduced manual investigations by 35%, and increased decision visibility by 40%.
+## Featured Work  
+
+### AI-Enabled Resume Intelligence Platform  
+Technical case study on designing scalable AI-driven hiring solutions.  
+Impact: Reduced manual screening by 35%, improved data standardization, increased recruiter efficiency.  
+
+Repository: ai-resume-intelligence-platform  
 
 ---
 
-###  Uber Ride Allocation Optimization
-Built predictive analytics models to improve driver allocation efficiency using historical demand data.  
-**Impact:** Reduced allocation lag by 12% through data-driven forecasting.
+### AI-Enabled Staffing & Fraud Detection Platform (PamTen)  
+Led business and data analysis for fraud detection and identity verification systems integrated with hiring workflows.  
+Impact:  
+- Improved detection accuracy by 25%  
+- Reduced manual investigations by 35%  
+- Increased decision visibility by 40%  
 
 ---
 
-##  Career Highlights
-
-- Delivered AI-driven staffing and fraud solutions improving recruitment efficiency and compliance outcomes  
-- Built Power BI dashboards increasing leadership and compliance visibility by 40%  
-- Reduced manual processing through automation and analytics-led workflows  
-- Recognized for strong documentation, stakeholder alignment, and platform-level thinking  
+### Customer Churn Prediction (ML)  
+Built supervised learning models to predict churn and support retention strategies.  
+Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib  
 
 ---
 
-##  What You’ll Find on My GitHub
+### Uber Ride Allocation Optimization  
+Applied regression and demand forecasting to improve driver allocation efficiency.  
+Impact: Reduced allocation lag by 12%.  
+
+---
+
+## Career Highlights  
+
+- Delivered AI-enabled analytics platforms improving operational efficiency and compliance  
+- Built enterprise-grade Power BI dashboards for leadership reporting  
+- Reduced manual processing through automation and validation workflows  
+- Recognized for strong documentation, stakeholder alignment, and system-level thinking  
+- Consistently bridged business, data, and engineering teams  
+
+---
+
+## What You’ll Find on My GitHub  
 
 - Public technical case studies  
-- Architecture and data model documentation  
-- Analytics and reporting examples  
-- Workflow automation and platform design artifacts  
+- Analytics and ML projects  
+- Architecture and workflow documentation  
+- Power BI and reporting samples  
+- Automation and system design artifacts  
+- Validation and testing frameworks  
 
-This GitHub serves as a **technical portfolio and evidence base** for my work in digital technology and analytics-driven platforms.
+This GitHub serves as a professional portfolio and evidence base for my work in analytics-driven platforms and data-informed decision systems.
 
 ---
 
-## Contact & Links
+## Contact & Links  
 
-- **LinkedIn:** https://www.linkedin.com/in/sarah-tabassum-b2000b388  
-- **GitHub:** https://github.com/SarahTabassum7  
-- **Email:** sarahtabassum057@gmail.com  
+Email: sarahtabassum057@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sarah-tabassum-b2000b388  
+GitHub: https://github.com/SarahTabassum7  
 
-> *“I design data-driven platforms that turn complexity into clarity and support better decisions at scale.”*
-
+“I design analytics-driven systems that turn complex data into reliable business decisions.”
