@@ -1,112 +1,109 @@
-# Hi, I’m Sarah Tabassum  
+# Hi, I'm Sarah Tabassum 
 
-Technical Business Analyst | Business Statistics | Financial & Marketing Analytics | Product Insights | SQL | Power BI | Python | ML Foundations
-
----
-
-## About Me  
-
-I’m a Data & Business Analyst with 5+ years of experience supporting analytics-driven platforms across fraud, risk, finance, and operational domains. I specialize in transforming complex business rules and datasets into reliable workflows, performance dashboards, and decision-support systems.
-
-My work focuses on SQL-based validation, Power BI reporting, workflow automation, and end-to-end delivery—from BRDs and process mapping to UAT execution and release validation. I collaborate closely with engineering, compliance, and business teams to improve data quality, system reliability, and reporting confidence.
-
-I also bring strong foundations in Python, R, and supervised machine learning, and actively build analytical models to support forecasting, churn analysis, and performance optimization.
-
-I’m currently exploring opportunities in Business Statistics, Financial Analytics, Product Analytics, and Data/BI-focused teams.
+**Business Analyst | SQL · Power BI · Python · Agile**
+Fintech · E-commerce · HR Tech · Financial Services · SaaS
 
 ---
 
-## What I Work On  
+## About Me
 
-- AI-enabled recruitment and staffing platforms  
-- Fraud detection and identity verification workflows  
-- Financial and operational performance reporting  
-- Marketing and customer analytics solutions  
-- Data validation and workflow automation systems  
-- Analytics-driven system design in regulated environments  
+I'm a Business Analyst with 6+ years of experience translating complex business problems into structured, actionable solutions — across fintech, e-commerce, HR tech, and financial services.
 
----
+I specialize in the full BA lifecycle: requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management. What sets me apart is a strong technical edge — I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python. That combination lets me work faster, catch more issues, and communicate more credibly with engineering teams.
 
-## Core Expertise  
+**Measurable impact I've delivered:**
+- Reduced data discrepancies by 25% through advanced SQL validation at PamTen
+- Improved issue resolution accuracy by 12% at Amazon through Python-driven analysis
+- Reduced post-release defects by 20% through structured UAT and root cause analysis
+- Improved team onboarding efficiency by 30% through SOPs and knowledge transfer
 
-### Business Analysis & Process  
-BRDs, FRDs, RTMs, SRS, User Stories, Use Case Modeling, As-Is / To-Be Analysis, Acceptance Criteria, Requirement Traceability, UAT Planning  
 
-### Analytics, Finance & Marketing  
-KPI Analysis, Financial Performance Tracking, Variance Analysis, Funnel & Conversion Analysis, Customer Behavior Analytics, Data Storytelling  
-
-### Business Intelligence & Reporting  
-Power BI, Tableau, Excel (Pivot Tables, VLOOKUP), Power Query, Looker Studio, DAX, M Query, Dashboard Design  
-
-### Machine Learning & Statistics  
-Supervised Learning, Feature Engineering, EDA, Model Evaluation, Statistical Foundations, Business Interpretation of Models  
-
-### Programming & Automation  
-Python, R, SQL, .NET, REST APIs, JSON, Power Automate, n8n Workflow Automation, Git/GitHub  
-
-### Testing & Delivery  
-Functional & Regression Testing, UAT Coordination, Validation Scenarios, Defect Tracking (Jira), Release Verification  
+Currently serving as a **Financial Business Analyst at RAZR Capital LLC**, and contributing BA and financial analysis expertise to **SportsPulse** — a live AI-powered sports league management SaaS platform.
 
 ---
 
-## Featured Work  
+## Core Expertise
 
-### AI-Enabled Resume Intelligence Platform  
-Technical case study on designing scalable AI-driven hiring solutions.  
-Impact: Reduced manual screening by 35%, improved data standardization, increased recruiter efficiency.  
+### Business Analysis
+BRDs · FRDs · RTMs · User Stories · Acceptance Criteria · Use Case Modeling
+Business Case Development · Feasibility Analysis · Gap Analysis
+As-Is/To-Be Process Mapping · Change Management · Impact Analysis · Stakeholder Management
 
-Repository: ai-resume-intelligence-platform  
+### Data & BI
+SQL (CTEs · Window Functions · Joins) · Power BI (DAX · M Query) · Tableau
+Excel (Pivot Tables · Power Query · VLOOKUP) · Looker Studio · Google Analytics
 
----
+### Financial Analysis
+Financial Modeling · Investment Analysis · Due Diligence · Forecasting & Budgeting
+Scenario Analysis · Revenue Analysis · Unit Economics (ARR · LTV · CAC · Churn)
 
-### AI-Enabled Staffing & Fraud Detection Platform (PamTen)  
-Led business and data analysis for fraud detection and identity verification systems integrated with hiring workflows.  
-Impact:  
-- Improved detection accuracy by 25%  
-- Reduced manual investigations by 35%  
-- Increased decision visibility by 40%  
+### Programming & Automation
+Python (Pandas · NumPy · Scikit-learn) · R · SQL · .NET
+REST APIs · JSON · Power Automate · n8n · Git/GitHub
 
----
+### Analytics & ML
+Predictive Analytics · Regression · Classification · EDA · Feature Engineering
+Supervised Learning (Logistic Regression · Decision Trees · Random Forest)
 
-### Customer Churn Prediction (ML)  
-Built supervised learning models to predict churn and support retention strategies.  
-Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-
----
-
-### Uber Ride Allocation Optimization  
-Applied regression and demand forecasting to improve driver allocation efficiency.  
-Impact: Reduced allocation lag by 12%.  
+### Testing & Delivery
+UAT Planning & Coordination · Functional & Regression Testing
+Defect Tracking · Root Cause Analysis · API Testing · Agile/Scrum · Jira · Azure DevOps
 
 ---
 
-## Career Highlights  
+## Featured Projects
 
-- Delivered AI-enabled analytics platforms improving operational efficiency and compliance  
-- Built enterprise-grade Power BI dashboards for leadership reporting  
-- Reduced manual processing through automation and validation workflows  
-- Recognized for strong documentation, stakeholder alignment, and system-level thinking  
-- Consistently bridged business, data, and engineering teams  
+### SportsPulse — AI-Powered Sports League Management Platform
+*Business & Financial Analyst · Jan 2026 – Present · [sportspulse.us](https://www.sportspulse.us)*
 
----
-
-## What You’ll Find on My GitHub  
-
-- Public technical case studies  
-- Analytics and ML projects  
-- Architecture and workflow documentation  
-- Power BI and reporting samples  
-- Automation and system design artifacts  
-- Validation and testing frameworks  
-
-This GitHub serves as a professional portfolio and evidence base for my work in analytics-driven platforms and data-informed decision systems.
+Contributing BA and financial analysis expertise on a live SaaS platform serving 24+ leagues and 1,847+ players across 3 global markets.
+- Financial modeling across 3+ subscription tiers tracking ARR, LTV, CAC, and churn
+- 5+ BRDs and process flows supporting feature prioritization across the platform
+- 8+ KPI dashboards tracking fixture completion, referee utilization, and revenue metrics
 
 ---
 
-## Contact & Links  
+### AI-Enabled Staffing Portal *(PamTen Inc.)*
+End-to-end BA delivery on an AI-powered hiring platform with 10+ integrated modules.
+- Reduced manual screening effort by 35% through process optimization
+- Power BI dashboards improving hiring decision visibility by 40%
+- 100% UAT sign-off across all assigned releases with zero critical gaps
 
-Email: sarahtabassum057@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sarah-tabassum-b2000b388  
-GitHub: https://github.com/SarahTabassum7  
+---
 
-“I design analytics-driven systems that turn complex data into reliable business decisions.”
+### Customer Churn Prediction — ML Classification Model
+*Python · Scikit-learn · Pandas · Matplotlib*
+
+Built a supervised ML model to predict customer churn with 85% accuracy.
+- Evaluated Logistic Regression, Decision Tree, and Random Forest models
+- ROC-AUC: 0.836 · Threshold tuning at 0.65 for optimized F1-score
+- Translated model outputs into business-actionable retention strategy recommendations
+
+---
+
+### Uber Ride Allocation Optimization *(University of New Haven)*
+*SQL · Python · Scikit-learn*
+
+Analyzed 100,000+ ride records to optimize driver-rider matching efficiency.
+- Reduced allocation lag by 12% using regression and predictive demand forecasting
+- Identified service bottlenecks across time, geography, and service type
+
+---
+
+## What You'll Find Here
+
+- Business analysis case studies and project documentation
+- Power BI dashboard samples and DAX queries
+- Python analytics and ML projects
+- SQL validation scripts and data quality frameworks
+- BRD, RTM, and process mapping templates
+
+---
+
+## Connect
+
+sarahtabassum057@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sarah-tabassum-b2000b388)
+[GitHub](https://github.com/SarahTabassum7)
+
+> *"I bridge the gap between what the business needs and what technology delivers."*
