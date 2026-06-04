@@ -7,7 +7,7 @@ Fintech · E-commerce · HR Tech · Financial Services · SaaS
 
 ## About Me
 
-I'm a Business Analyst with 6+ years of experience translating complex business problems into structured, actionable solutions — across fintech, e-commerce, HR tech, and financial services.
+I'm a Business Analyst with 6+ years of experience translating complex business problems into structured, actionable solutions across fintech, e-commerce, HR tech, and financial services.
 
 I specialize in the full BA lifecycle: requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management. What sets me apart is a strong technical edge, I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python. That combination lets me work faster, catch more issues, and communicate more credibly with engineering teams.
 
@@ -18,7 +18,7 @@ I specialize in the full BA lifecycle: requirements elicitation, BRDs, FRDs, RTM
 - Improved team onboarding efficiency by 30% through SOPs and knowledge transfer
 
 
-Currently serving as a **Financial Business Analyst at RAZR Capital LLC**, and contributing BA and financial analysis expertise to **SportsPulse** — a live AI-powered sports league management SaaS platform.
+Currently serving as a **Financial Business Analyst at RAZR Capital LLC**, and contributing BA and financial analysis expertise to **SportsPulse**, a live AI-powered sports league management SaaS platform.
 
 ---
 
