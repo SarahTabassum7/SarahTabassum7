@@ -15,7 +15,7 @@
 
 <br/>
 
-```
+```bash
 $ whoami
 > Sarah Tabassum - Business Analyst | AI-Enabled Systems | SQL, Power BI, Python
 
