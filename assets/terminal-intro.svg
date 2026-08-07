@@ -1,0 +1,27 @@
+<svg width="900" height="410" viewBox="0 0 900 410" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Fira Code', 'Courier New', monospace">
+  <rect x="0.5" y="0.5" width="899" height="409" rx="10" fill="#0D1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="899" height="40" rx="10" fill="#161B22" stroke="#30363d"/>
+  <rect x="0.5" y="30" width="899" height="10" fill="#161B22"/>
+  <line x1="0.5" y1="40.5" x2="899.5" y2="40.5" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="20" r="6" fill="#27C93F"/>
+  <text x="90" y="25" font-size="13" fill="#8b949e">sarah@portfolio:~</text>
+
+  <g font-size="15">
+    <text x="30" y="70"><tspan fill="#58A6FF">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+    <text x="30" y="96" fill="#00F5A0">&gt; Sarah Tabassum - Business Analyst | AI-Enabled Systems | SQL, Power BI, Python</text>
+
+    <text x="30" y="148"><tspan fill="#58A6FF">$ </tspan><tspan fill="#c9d1d9">current_role</tspan></text>
+    <text x="30" y="174" fill="#00F5A0">&gt; Financial Business Analyst at RAZR Capital LLC</text>
+    <text x="30" y="200" fill="#00F5A0">&gt; Contributing BA and financial analysis to SportsPulse (live AI-powered SaaS)</text>
+
+    <text x="30" y="252"><tspan fill="#58A6FF">$ </tspan><tspan fill="#c9d1d9">years_experience</tspan></text>
+    <text x="30" y="278" fill="#00F5A0">&gt; 6+</text>
+
+    <text x="30" y="330"><tspan fill="#58A6FF">$ </tspan><tspan fill="#c9d1d9">status --check</tspan></text>
+    <text x="30" y="356" fill="#00F5A0">&gt; open_to: [Business Statistics, Financial Analytics, Product Analytics, Data/BI]</text>
+  </g>
+</svg>
+
