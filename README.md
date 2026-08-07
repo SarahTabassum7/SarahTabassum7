@@ -17,11 +17,11 @@
 
 ```bash
 $ whoami
-> Sarah Tabassum — Business Analyst | AI-Enabled Systems | SQL · Power BI · Python
+> Sarah Tabassum - Business Analyst | AI-Enabled Systems | SQL, Power BI, Python
 
 $ current_role
-> Financial Business Analyst @ RAZR Capital LLC
-> Contributing BA + Financial Analysis to SportsPulse (live AI-powered SaaS)
+> Financial Business Analyst at RAZR Capital LLC
+> Contributing BA and financial analysis to SportsPulse (live AI-powered SaaS)
 
 $ years_experience
 > 6+
@@ -32,11 +32,11 @@ $ status --check
 
 ### About Me
 
-I'm a Business Analyst with **6+ years of experience** translating complex business problems into structured, actionable solutions across fintech, e-commerce, HR tech, and financial services with a growing focus on **AI-enabled platforms**.
+I'm a Business Analyst with **6+ years of experience** translating complex business problems into structured, actionable solutions across fintech, e-commerce, HR tech, and financial services, with a growing focus on **AI-enabled platforms**.
 
-I specialize in the full BA lifecycle requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management with a technical edge that sets me apart: I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python.
+I specialize in the full BA lifecycle: requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management, with a technical edge that sets me apart. I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python.
 
-** Measurable impact I've delivered:**
+**Measurable impact I've delivered:**
 
 - Reduced data discrepancies by **25%** through advanced SQL validation at PamTen
 - Improved issue resolution accuracy by **12%** at Amazon through Python-driven analysis
@@ -52,8 +52,8 @@ I specialize in the full BA lifecycle requirements elicitation, BRDs, FRDs, RTMs
 I bring AI into the BA lifecycle itself, not just the platforms I analyze:
 
 - **Prompt engineering** with ChatGPT and Claude to accelerate requirements drafting, test-scenario generation, and SQL validation queries
-- **AI-assisted automation** — building n8n and Power Automate workflows with AI steps to cut manual processing time
-- **AI systems analysis** — leading BA and financial analysis for three live AI-enabled platforms (fraud detection, resume intelligence, sports-league SaaS) — see Featured Projects below
+- **AI-assisted automation** - building n8n and Power Automate workflows with AI steps to cut manual processing time
+- **AI systems analysis** - leading BA and financial analysis for three live AI-enabled platforms (fraud detection, resume intelligence, sports-league SaaS) - see Featured Projects below
 
 ---
 
@@ -87,8 +87,8 @@ I bring AI into the BA lifecycle itself, not just the platforms I analyze:
 
 ### Featured Projects
 
-#### SportsPulse — AI-Powered Sports League Platform
-*Business & Financial Analyst · Jan 2026–Present*
+#### SportsPulse - AI-Powered Sports League Platform
+*Business & Financial Analyst · Jan 2026-Present*
 
 [![Live Platform](https://img.shields.io/badge/Live_Platform-sportspulse.us-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5A0)](https://www.sportspulse.us)
 
@@ -98,7 +98,7 @@ Live SaaS platform serving 24+ leagues and 1,847+ players across 3 markets.
 - 5+ BRDs supporting feature prioritization
 - 8+ KPI dashboards for fixture, referee, and revenue metrics
 
-#### AI-Enabled Staffing & Fraud Detection Portal *(PamTen Inc.)*
+#### AI-Enabled Staffing & Fraud Detection Portal (PamTen Inc.)
 
 [![Repo](https://img.shields.io/badge/View_Repo-recruitedge--ai--staffing--portal-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0)](https://github.com/SarahTabassum7/recruitedge-ai-staffing-portal) ![Top Language](https://img.shields.io/github/languages/top/SarahTabassum7/recruitedge-ai-staffing-portal?style=for-the-badge&color=0D1117&logoColor=00F5A0&labelColor=161B22)
 
@@ -106,11 +106,11 @@ Live SaaS platform serving 24+ leagues and 1,847+ players across 3 markets.
 - Power BI dashboards improving hiring decision visibility by **40%**
 - 100% UAT sign-off, zero critical gaps
 
-#### Customer Churn Prediction — ML Classification
+#### Customer Churn Prediction - ML Classification
 
 [![Repo](https://img.shields.io/badge/View_Repo-customer--churn--ml-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0)](https://github.com/SarahTabassum7/customer-churn-ml) ![Top Language](https://img.shields.io/github/languages/top/SarahTabassum7/customer-churn-ml?style=for-the-badge&color=0D1117&logoColor=00F5A0&labelColor=161B22)
 
-- 85% accuracy · ROC-AUC 0.836
+- 85% accuracy, ROC-AUC 0.836
 - Compared Logistic Regression, Decision Tree, Random Forest
 - Translated outputs into retention strategy recommendations
 
@@ -123,12 +123,12 @@ Case study on designing scalable AI-driven hiring solutions.
 - Reduced manual screening by 35%, improved data standardization
 - Increased recruiter efficiency through structured candidate data models
 
-#### Uber Ride Allocation Optimization *(University of New Haven)*
+#### Uber Ride Allocation Optimization (University of New Haven)
 
 [![Repo](https://img.shields.io/badge/View_Repo-professional--portfolio-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0)](https://github.com/SarahTabassum7/professional-portfolio)
 
 - Analyzed 100,000+ ride records
-- Reduced allocation lag by **12%** via regression & demand forecasting
+- Reduced allocation lag by **12%** via regression and demand forecasting
 - Identified bottlenecks across time, geography, service type
 
 ---
@@ -146,7 +146,7 @@ Case study on designing scalable AI-driven hiring solutions.
 
 </div>
 
-> *Note: the stats/streak cards above are generated by free third-party services and can occasionally fail to load if that host is under heavy traffic — a page refresh usually fixes it. The snake animation will appear once you add the workflow below and run it (instructions follow).*
+> Note: the stats/streak cards above are generated by free third-party services and can occasionally fail to load if that host is under heavy traffic - a page refresh usually fixes it. The snake animation appears once you add the workflow file and run it (see separate instructions).
 
 ---
 
@@ -163,3 +163,4 @@ Case study on designing scalable AI-driven hiring solutions.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:0F3D3E,100:0D1117&height=100&section=footer" width="100%"/>
+
