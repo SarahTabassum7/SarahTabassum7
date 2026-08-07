@@ -32,9 +32,9 @@ $ status --check
 
 ### About Me
 
-I'm a Business Analyst with **6+ years of experience** translating complex business problems into structured, actionable solutions across fintech, e-commerce, HR tech, and financial services — with a growing focus on **AI-enabled platforms**.
+I'm a Business Analyst with **6+ years of experience** translating complex business problems into structured, actionable solutions across fintech, e-commerce, HR tech, and financial services with a growing focus on **AI-enabled platforms**.
 
-I specialize in the full BA lifecycle — requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management — with a technical edge that sets me apart: I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python.
+I specialize in the full BA lifecycle requirements elicitation, BRDs, FRDs, RTMs, As-Is/To-Be process mapping, UAT coordination, and stakeholder management with a technical edge that sets me apart: I write the SQL to validate the data behind requirements, build Power BI dashboards to track outcomes, and automate workflows in Python.
 
 ** Measurable impact I've delivered:**
 
