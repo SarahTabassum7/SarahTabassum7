@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:38BDF8&height=200&section=header&text=Hi%2C%20I'm%20Sarah%20Tabassum&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%C2%B7%20AI-Enabled%20Systems%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 
-<a href="https://www.linkedin.com/in/sarah-tabassum-b2000b388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarahtabassum7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sarahtabassum057@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/San%20Jose%2C%20CA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 <img src="https://komarev.com/ghpvc/?username=SarahTabassum7&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
@@ -144,7 +144,7 @@ Case study on designing scalable AI-driven hiring solutions.
 <div align="center">
 
 <a href="mailto:sarahtabassum057@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sarah-tabassum-b2000b388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarahtabassum7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/SarahTabassum7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 *"I bridge the gap between what the business needs and what technology delivers."*
