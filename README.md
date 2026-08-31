@@ -36,7 +36,7 @@ I specialize in the full BA lifecycle: requirements elicitation, BRDs, FRDs, RTM
 
 ### AI-Augmented Workflow
 
-<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/n8n_AI_Workflows-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/n8n_AI_Workflows-0D1117?style=for-the-badge&logo=n8n&logoColor=38BDF8"/>
 
 I bring AI into the BA lifecycle itself, not just the platforms I analyze:
 
@@ -54,7 +54,7 @@ I bring AI into the BA lifecycle itself, not just the platforms I analyze:
 
 **Data & BI**
 
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google_Analytics-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Google_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
 
 **Financial Analysis**
 
@@ -62,15 +62,15 @@ I bring AI into the BA lifecycle itself, not just the platforms I analyze:
 
 **Programming & Automation**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=for-the-badge"/>
 
 **AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge"/>
 
 **Testing & Delivery**
 
-<img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agile%2FScrum-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/UAT%20Coordination-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Agile%2FScrum-0D1117?style=for-the-badge"/> <img src="https://img.shields.io/badge/UAT%20Coordination-0D1117?style=for-the-badge"/>
 
 ---
 
